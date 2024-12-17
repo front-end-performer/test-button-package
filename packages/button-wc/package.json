@@ -1,6 +1,7 @@
 {
   "name": "@acrobat-ui/button-wc",
   "version": "0.0.1",
+  "private": true,
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "oleksii <sodolinskyi@gmail.com>",
@@ -18,5 +19,6 @@
   },
   "dependencies": {
     "lit": "^3.2.1"
-  }
+  },
+  "gitHead": "4ad0fd94e46802d16bab1547356c6feb8083732c"
 }
