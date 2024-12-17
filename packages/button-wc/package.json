@@ -13,11 +13,14 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node ./__tests__/button.test.js"
   },
   "dependencies": {
     "lit": "^3.2.1"
   },
-  "gitHead": "8098199ddc7878cc9b792292bfb09256f012e6ca"
+  "gitHead": "b738271ea7debe9ba21e39b99ec5485727c4ef99"
 }
